@@ -1,3 +1,4 @@
-cold and dry
+New first line
+cold and dry, bluuuuuu
 Adding test that needs to be commited
-MORE TEXT again and again
+MORE TEXT
